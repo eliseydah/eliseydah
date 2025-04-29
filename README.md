@@ -30,13 +30,13 @@
 
 | Project | Description |
 |--------|-------------|
-| [🧾 Todo List]([https://github.com/yourusername/todo-list](https://github.com/eliseydah/my-projects/tree/master/vue-todo)) | A simple and clean task manager built with Vue and local storage. |
+| [🧾 Todo List](https://github.com/eliseydah/my-projects/tree/master/vue-todo) | A simple and clean task manager built with Vue and local storage. |
 | [☀️ Weather Widget](https://github.com/eliseydah/my-projects/tree/master/weather) | Weather app that displays real-time data using a public API. |
 | [🎁 Wishlist](https://github.com/eliseydah/my-projects/tree/master/vue-wishlist) | Save and manage gift ideas or personal shopping lists. |
 | [🔧 Scaffolding Tool](https://github.com/fr-ser/scaffolding-management) |This app should provide basic functionalities to manage a very specific scaffolding business. The functionality basically includes: client management and invoice management |
-| [🌿 Plant Shop]([https://github.com/yourusername/plants-shop](https://github.com/eliseydah/my-projects/tree/master/react/react-plants)) | A frontend plant store with category filters and product details. |
+| [🌿 Plant Shop](https://github.com/eliseydah/my-projects/tree/master/react/react-plants) | A frontend plant store with category filters and product details. |
 | [💬 Chat App](https://github.com/eliseydah/my-projects/tree/master/react/react-chat) | Real-time chat application using sockets and simple backend logic. |
-| [🎲 Lottery Game]([https://github.com/yourusername/lottery](https://github.com/eliseydah/kotlin-lotto-precourse/tree/eliseydah)) | A Kotlin app that simulates a lottery game, calculates matches and shows winnings. |
+| [🎲 Lottery Game](https://github.com/eliseydah/kotlin-lotto-precourse/tree/eliseydah) | A Kotlin app that simulates a lottery game, calculates matches and shows winnings. |
 
 ---
 
