@@ -25,6 +25,8 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 ---
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eliseydah&layout=compact&theme=default)
+---
 
 ### 📌 Featured Projects
 
